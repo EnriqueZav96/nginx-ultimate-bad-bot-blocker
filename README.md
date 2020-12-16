@@ -11,9 +11,9 @@
 ##### The Ultimate Nginx Bad Bot, User-Agent, Spam Referrer Blocker, Adware, Malware and Ransomware Blocker, Clickjacking Blocker, Click Re-Directing Blocker, SEO Companies and Bad IP Blocker with Anti DDOS System, Nginx Rate Limiting and Wordpress Theme Detector Blocking. Stop and Block all kinds of bad internet traffic even Fake Googlebots from ever reaching your web sites. [PLEASE SEE: Definition of Bad Bots](#define-bad-bots)
 
 _______________
-#### Version: V4.2020.09.2141
-#### Bad Referrers Blocked: [6834](https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/bad-referrers.list)
-#### Bad User-Agents (Bots) Blocked: [578](https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/bad-user-agents.list)
+#### Version: V4.2020.12.2195
+#### Bad Referrers Blocked: [6848](https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/bad-referrers.list)
+#### Bad User-Agents (Bots) Blocked: [583](https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/bad-user-agents.list)
 #### Fake Googlebots Blocked: [217](https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/fake-googlebots.list)
 ____________________
 
@@ -28,9 +28,9 @@ ____________________
 _______________________
 ##### Tested On:
 ##### nginx version: nginx/1.10.x :heavy_check_mark:
-##### nginx version: nginx/1.16.1 :heavy_check_mark:
+##### nginx version: nginx/1.18.0 (Ubuntu) :heavy_check_mark:
 ##### nginx version: nginx/1.15.8 :heavy_check_mark:
-##### nginx version: nginx/1.19.2 :heavy_check_mark:
+##### nginx version: nginx/1.19.5 :heavy_check_mark:
 __________________________
 
 Not Using Nginx? See the [![Get the APACHE ULTIMATE BAD BOT BLOCKER](https://img.shields.io/badge/APACHE%20-%20ULTIMATE%20BAD%20BOT%20BLOCKER%20%E2%9B%94-blue.svg)](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker)
@@ -328,10 +328,13 @@ You can now customize any of the following files below to suit your environment 
 ```text
 /etc/nginx/bots.d/whitelist-ips.conf
 /etc/nginx/bots.d/whitelist-domains.conf
+/etc/nginx/bots.d/blockbots.conf
+/etc/nginx/bots.d/blacklist-domains.conf
 /etc/nginx/bots.d/blacklist-user-agents.conf
 /etc/nginx/bots.d/blacklist-ips.conf
 /etc/nginx/bots.d/bad-referrer-words.conf
 /etc/nginx/bots.d/custom-bad-referrers.conf
+/etc/nginx/bots.d/ddos.conf
 ```
 
 Let's say for some "obscure" reason you actually want to block GoogleBot from accessing your site. You would simply add it to the /etc/nginx/bots.d/blacklist-user-agents.conf file and it will over-ride the default whitelist for GoogleBot. the same applies to any other bots that are whitelisted by default.

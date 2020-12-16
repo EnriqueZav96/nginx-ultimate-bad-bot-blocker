@@ -663,6 +663,7 @@
 "~*(?:\b)babyguns\.ru(?:\b)" 	1;
 "~*(?:\b)back\.dog(?:\b)" 	1;
 "~*(?:\b)backgroundpictures\.net(?:\b)" 	1;
+"~*(?:\b)backiee\.com(?:\b)" 	1;
 "~*(?:\b)backlink4u\.net(?:\b)" 	1;
 "~*(?:\b)backlinkwatch\.com(?:\b)" 	1;
 "~*(?:\b)backuperwebcam\.weebly\.com(?:\b)" 	1;
@@ -863,6 +864,7 @@
 "~*(?:\b)bjorkbacken\.nu(?:\b)" 	1;
 "~*(?:\b)bkgr\.se(?:\b)" 	1;
 "~*(?:\b)bkns\.vn(?:\b)" 	1;
+"~*(?:\b)blackbabesporn\.com(?:\b)" 	1;
 "~*(?:\b)blackcurranthumidifiers\.site(?:\b)" 	1;
 "~*(?:\b)blackhatworth\.com(?:\b)" 	1;
 "~*(?:\b)blackle\.com(?:\b)" 	1;
@@ -1905,6 +1907,7 @@
 "~*(?:\b)eng\-lyrics\.com(?:\b)" 	1;
 "~*(?:\b)enhand\.se(?:\b)" 	1;
 "~*(?:\b)en\.home\-task\.com(?:\b)" 	1;
+"~*(?:\b)enpolis\.ru(?:\b)" 	1;
 "~*(?:\b)enskedesquashclub\.se(?:\b)" 	1;
 "~*(?:\b)enternet\.ee(?:\b)" 	1;
 "~*(?:\b)enthuse\.computernetworksonline\.com(?:\b)" 	1;
@@ -3063,6 +3066,7 @@
 "~*(?:\b)journalhome\.com(?:\b)" 	1;
 "~*(?:\b)journeydownthescale\.info(?:\b)" 	1;
 "~*(?:\b)jovencitas\.gratis(?:\b)" 	1;
+"~*(?:\b)joy\-penguin\.com(?:\b)" 	1;
 "~*(?:\b)jpcycles\.com(?:\b)" 	1;
 "~*(?:\b)jrcigars\.com(?:\b)" 	1;
 "~*(?:\b)jrpmakati\.com(?:\b)" 	1;
@@ -3079,6 +3083,7 @@
 "~*(?:\b)justprofit\.xyz(?:\b)" 	1;
 "~*(?:\b)justucalling32211123456789\.tk(?:\b)" 	1;
 "~*(?:\b)jwss\.cc(?:\b)" 	1;
+"~*(?:\b)jyrxd\.com(?:\b)" 	1;
 "~*(?:\b)jyvopys\.com(?:\b)" 	1;
 "~*(?:\b)kaac\.ru(?:\b)" 	1;
 "~*(?:\b)kabbalah\-red\-bracelets\.com(?:\b)" 	1;
@@ -3535,6 +3540,7 @@
 "~*(?:\b)makedo\.ru(?:\b)" 	1;
 "~*(?:\b)make\-money\-online\.com(?:\b)" 	1;
 "~*(?:\b)makemoneyonline\.com(?:\b)" 	1;
+"~*(?:\b)makenahartlin\.com(?:\b)" 	1;
 "~*(?:\b)makis\.nu(?:\b)" 	1;
 "~*(?:\b)maladot\.com(?:\b)" 	1;
 "~*(?:\b)malls\.com(?:\b)" 	1;
@@ -3679,6 +3685,7 @@
 "~*(?:\b)michaelkorsoutlet\.store(?:\b)" 	1;
 "~*(?:\b)michaelkorsoutletstore\.net(?:\b)" 	1;
 "~*(?:\b)michaelkorssaleoutletonline\.net(?:\b)" 	1;
+"~*(?:\b)michellblog\.online(?:\b)" 	1;
 "~*(?:\b)microsearch\.ru(?:\b)" 	1;
 "~*(?:\b)microsoftportal\.net(?:\b)" 	1;
 "~*(?:\b)microstatic\.pl(?:\b)" 	1;
@@ -3766,6 +3773,7 @@
 "~*(?:\b)mojpreskumanie\.com(?:\b)" 	1;
 "~*(?:\b)mokrayakiska\.com(?:\b)" 	1;
 "~*(?:\b)mole\.pluto\.ro(?:\b)" 	1;
+"~*(?:\b)mompussy\.net(?:\b)" 	1;
 "~*(?:\b)monarchfind\-a\.akamaihd\.net(?:\b)" 	1;
 "~*(?:\b)monarhs\.info(?:\b)" 	1;
 "~*(?:\b)monclerboots\.xyz(?:\b)" 	1;
@@ -3992,6 +4000,7 @@
 "~*(?:\b)nevansk\.ru(?:\b)" 	1;
 "~*(?:\b)new7ob\.com(?:\b)" 	1;
 "~*(?:\b)new\-apps\.ru(?:\b)" 	1;
+"~*(?:\b)newfilmsonline\.ru(?:\b)" 	1;
 "~*(?:\b)newhairstylesformen2014\.com(?:\b)" 	1;
 "~*(?:\b)new\-post\.tk(?:\b)" 	1;
 "~*(?:\b)newsperuse\.com(?:\b)" 	1;
@@ -5191,6 +5200,7 @@
 "~*(?:\b)sexxdate\.net(?:\b)" 	1;
 "~*(?:\b)sexyali\.com(?:\b)" 	1;
 "~*(?:\b)sexy\.babes\.frontend\-stack\.top(?:\b)" 	1;
+"~*(?:\b)sexyebonyteen\.com(?:\b)" 	1;
 "~*(?:\b)sexy\-pings\.com(?:\b)" 	1;
 "~*(?:\b)sexy\-screen\-savers\.com(?:\b)" 	1;
 "~*(?:\b)sexystrippe\.info(?:\b)" 	1;
@@ -6082,6 +6092,7 @@
 "~*(?:\b)url2image\.com(?:\b)" 	1;
 "~*(?:\b)urlcut\.ru(?:\b)" 	1;
 "~*(?:\b)urldelivery\.com(?:\b)" 	1;
+"~*(?:\b)url\-extractor\.xyz(?:\b)" 	1;
 "~*(?:\b)url\-img\.link(?:\b)" 	1;
 "~*(?:\b)urll\.eu(?:\b)" 	1;
 "~*(?:\b)urlopener\.blogspot\.com\.au(?:\b)" 	1;
@@ -6303,6 +6314,7 @@
 "~*(?:\b)wahicbefa31\.soup\.io(?:\b)" 	1;
 "~*(?:\b)wait3sec\.org(?:\b)" 	1;
 "~*(?:\b)walkme\.com(?:\b)" 	1;
+"~*(?:\b)wallpaperaccess\.com(?:\b)" 	1;
 "~*(?:\b)wallpapers\-best\.com(?:\b)" 	1;
 "~*(?:\b)wallpapersdesk\.info(?:\b)" 	1;
 "~*(?:\b)wallpapersist\.com(?:\b)" 	1;
@@ -6474,6 +6486,7 @@
 "~*(?:\b)wormix\-cheats\.ru(?:\b)" 	1;
 "~*(?:\b)worst\-sites\.online(?:\b)" 	1;
 "~*(?:\b)wosik\-dach\.service\-for\-web\.de(?:\b)" 	1;
+"~*(?:\b)wovis\.site(?:\b)" 	1;
 "~*(?:\b)wowas31\.ucoz\.ru(?:\b)" 	1;
 "~*(?:\b)wowcasinoonline\.ooo(?:\b)" 	1;
 "~*(?:\b)woweb\.com\.ua(?:\b)" 	1;
@@ -6629,6 +6642,7 @@
 "~*(?:\b)xwatt\.ru(?:\b)" 	1;
 "~*(?:\b)xxart\.ru(?:\b)" 	1;
 "~*(?:\b)xxlargepop\.com(?:\b)" 	1;
+"~*(?:\b)xxxasianporn\.net(?:\b)" 	1;
 "~*(?:\b)xxx\-cam\.webcam(?:\b)" 	1;
 "~*(?:\b)xxxdatinglocal\.us(?:\b)" 	1;
 "~*(?:\b)xxxguitars\.com(?:\b)" 	1;
